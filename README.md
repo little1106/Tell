@@ -1,3 +1,3 @@
-# communityDictionary 
+# communityDictionary
 
-use Angular
+## use [Angular](https://angular.io/), [ionic](https://ionicframework.com/)
